@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="aula8.proyecto.petanias.pestanias">
+    package="aula8.proyecto">
 
     <application
         android:allowBackup="true"
