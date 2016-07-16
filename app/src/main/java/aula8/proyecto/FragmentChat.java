@@ -42,7 +42,7 @@ public class FragmentChat extends android.support.v4.app.Fragment
         List items = new ArrayList<>();
 
         items.add(new Usuario(R.drawable.foto1,"Isrrael Maita", "esto es una tremendo texto que meti aqui para ver si es necesario ponerle un scroll"));
-        items.add(new Usuario(R.drawable.foto1,"Xavier Moreno", "xavier@correo.com"));
+        items.add(new Usuario(R.drawable.foto1,"Xavier Moreno", "profesor, no entiendo el valor de la transformada de furier realizada en el inciso anterior, cabe destacar que el valor preliminar no concuerda con los establecidos en la tabla, y su resultado variara mediante los requerimientos presentados en la clase anterior, y entoces se asentuan las dudas en el ejercicio en cuestion y no se puede avanzar asi con esas dudas profesor, no entiendo el valor de la transformada de furier realizada en el inciso anterior, cabe destacar que el valor preliminar no concuerda"));
         items.add(new Usuario(R.drawable.foto1,"Acilio Simoes", "acilio@correo.com"));
 
 
